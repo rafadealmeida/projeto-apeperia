@@ -1,0 +1,22 @@
+:root {
+    --corBranco: #FFF;
+    --corAzul-claro: #DFE3E5;
+    --corVermelho-forte: #B72E2E;
+    --corCinza-escuro: #4F4C4C;
+    --corCinza-claro: #F7F4F4;
+    --corCinza-medio: #D9D9D9;
+        
+    --corFonte-link: #0084FF;
+    --corFonte-cinza: #666;
+    --corBorda-cabecalho-mobile: #103D4A;
+    --corBg-rodape: #333;
+    --corBg-chamada-mobile: #00161C;
+
+    --corPlanos-cartao-start: #56CCF2;
+    --corPlanos-cartao-ultra: #B04CD9;
+    --corPlanos-cartao-mega: #E33B3B;
+
+    --font-padrao:'Open Sans', sans-serif;
+    --font-destaque : 'Montserrat', sans-serif;
+
+}
