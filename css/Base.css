@@ -20,3 +20,8 @@
     --font-destaque : 'Montserrat', sans-serif;
 
 }
+
+*{
+    font-family: var(--font-padrao);
+
+}
