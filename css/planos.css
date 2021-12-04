@@ -9,7 +9,7 @@
     color: var(--cinza-escuro);
     font-weight: 700;
     font-size: 1.5rem;
-    font-family: var(--montserrat);
+    font-family: var(--font-destaque);
     text-transform: uppercase;
     text-align: center;
 
@@ -63,7 +63,7 @@
 }
 
 .cartao__texto {
-    color: var(--fonte-cinza);
+    color: var(--corFonte-cinza);
     line-height: 28px;
 }
 
@@ -82,25 +82,25 @@
 }
 
 .cartao--start {
-    color: var(--planos-cartao-start);
+    color: var(--corPlanos-cartao-start);
 }
 
 .cartao--ultra {
-    color: var(--planos-cartao-ultra);
+    color: var(--corPlanos-cartao-ultra);
 }
 
 .cartao--mega {
-    color: var(--planos-cartao-mega);
+    color: var(--corPlanos-cartao-mega);
 }
 
 .cartao__botao--start {
-    border-color: var(--planos-cartao-start);
+    border-color: var(--corPlanos-cartao-start);
 }
 
 .cartao__botao--ultra {
-    border-color: var(--planos-cartao-ultra);
+    border-color: var(--corPlanos-cartao-ultra);
 }
 
 .cartao__botao--mega {
-    border-color: var(--planos-cartao-mega);
+    border-color: var(--corPlanos-cartao-mega);
 }
