@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
 
-    color: var(--fonte-cinza);
+    color: var(--corFonte-cinza);
     text-align: center;
 
     padding-top: 2rem;
@@ -11,10 +11,10 @@
 }
 
 .institucional__titulo {
-    color: var(--cinza-escuro);
+    color: var(--corCinza-escuro);
     font-weight: 700;
     font-size: 1.5rem;
-    font-family: var(--montserrat);
+    font-family: var(--fonte-destaque);
     text-transform: uppercase;
     text-align: center;
 
@@ -44,7 +44,7 @@
 }
 
 .institucional__contato-email {
-    color: var(--fonte-link);
+    color: var(--corFonte-link);
     text-decoration: underline;
     display: block;
 }
